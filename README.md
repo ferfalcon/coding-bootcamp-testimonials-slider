@@ -1,4 +1,4 @@
-# Coding bootcamp testimonials slider solution
+# Coding bootcamp testimonials slider
 
 ![Design preview for the Coding bootcamp testimonials slider coding challenge](/frontend-mentor/preview.jpg)
 
@@ -39,34 +39,27 @@ Users should be able to:
 
 ### Built with
 
+- Monorepo
 - Semantic HTML5 markup
-- CSS custom properties
+- Mobile-first workflow
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- CSS custom properties
+- [TypeScript](https://www.typescriptlang.org/) - JavaScript with syntax for types.
+- [Node.js](https://nodejs.org/) - JavaScript runtime environment
+- [Render](https://render.com/) - Cloud platform for deploying
+- [Fastify](https://fastify.dev/) - Web framework for Node.js
+- [Vite](https://vite.dev/) - Build Tool
+- [React](https://react.dev/) - JS library for creating web user interfaces
+- [PostgreSQL](https://www.postgresql.org/) - Open Source Relational Database
+- [Neon](https://neon.com/) - Database provider
+- [Prisma](https://www.prisma.io/) - Node.js and TypeScript ORM
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+**Conventional Commits.**  
+Use: `feat: `, `fix: `, `chore: `, `docs: `, `refactor: `, `test: `  
+Commits should be small and logically grouped.
 
 ### Continued development
 
@@ -74,8 +67,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [AGENTS.md](https://agents.md/) - README.md files are for humans: quick starts, project descriptions, and contribution guidelines.
+- [Agent Skills](https://agentskills.io/) - A simple, open format for giving agents new capabilities and expertise. Agent Skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently.
+- [SKILLS](https://skills.sh/) - The Agent Skills Directory.
+- [Introducing: React Best Practices](https://vercel.com/blog/introducing-react-best-practices) - We've encapsulated 10+ years of React and Next.js optimization knowledge into `react-best-practices`, a structured repository optimized for AI agents and LLMs..
 
 ### AI Collaboration
 
